@@ -1,0 +1,29 @@
+.profil{
+    height: 100px;
+    width: 200px;
+
+    margin-top: 10px;
+    margin-left: 100px;
+
+    line-height: 10px;
+}
+
+#p{
+    font-size: 20px;
+}
+#pp{
+    font-size: 40px;
+}
+
+#logout{
+    height: 45px;
+    width: 85px;
+
+    margin-left: 100px;
+
+    background-color: #bbbbbb;
+}
+#logout:hover{
+    border: 1px black solid;
+    background-color: #e2e2e2;
+}
